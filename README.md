@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I am a passionate Data Analyst student who loves turning raw, messy data into actionable insights and beautiful visualizations. 
 
-I enjoy solving business problems using **SQL, Python, and Power BI**, and I'm always eager to learn new tools to crack complex data challenges.
+I enjoy solving business problems using **SQL, Python, Excel and Power BI**, and I'm always eager to learn new tools to crack complex data challenges.
 
 ---
 ## 🌐 Socials:
